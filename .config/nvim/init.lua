@@ -18,7 +18,7 @@ vim.opt.autoindent = true
 vim.opt.smartindent = true
 vim.opt.wrap = false
 vim.opt.backup = false
-vim.opt.cc = "80"
+vim.opt.cc = "120"
 vim.opt.scrolloff = 10
 vim.opt.syntax = "on"
 
